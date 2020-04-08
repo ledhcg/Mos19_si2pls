@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\dinhc\OneDrive - actvn.edu.vn\Documents\Процед программированние\Project Snake\Project Snake\Project Snake\Source.cpp(114,12): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+C:\Users\dinhc\OneDrive - actvn.edu.vn\Documents\Процед программированние\Project Snake\Project Snake\Project Snake\Source.cpp(129,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Project Snake.vcxproj -> C:\Users\dinhc\OneDrive - actvn.edu.vn\Documents\Процед программированние\Project Snake\Project Snake\Debug\Project Snake.exe

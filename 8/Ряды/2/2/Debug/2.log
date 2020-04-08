@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\dinhc\OneDrive - actvn.edu.vn\Documents\Процед программированние\8\Ряды\2\2\Source.cpp(14,9): warning C4101:  'tu': unreferenced local variable
+C:\Users\dinhc\OneDrive - actvn.edu.vn\Documents\Процед программированние\8\Ряды\2\2\Source.cpp(40,15): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+  2.vcxproj -> C:\Users\dinhc\OneDrive - actvn.edu.vn\Documents\Процед программированние\8\Ряды\2\Debug\2.exe

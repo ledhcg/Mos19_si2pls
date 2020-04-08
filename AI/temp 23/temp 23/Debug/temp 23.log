@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\dinhc\OneDrive - actvn.edu.vn\Documents\Процед программированние\AI\temp 23\temp 23\Source.cpp(30,16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\dinhc\OneDrive - actvn.edu.vn\Documents\Процед программированние\AI\temp 23\temp 23\Source.cpp(38,16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  temp 23.vcxproj -> C:\Users\dinhc\OneDrive - actvn.edu.vn\Documents\Процед программированние\AI\temp 23\Debug\temp 23.exe
